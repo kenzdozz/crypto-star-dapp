@@ -2,10 +2,11 @@
 **PROJECT: Decentralized Star Notary Service Project** - Created a DApp by adding functionality to the smart contract and deploying it on the public testnet.
 
 ### Information
-OpenZeppelin version: 2.3.0
-ERC-721 Token Name: Moonlight Stars
-ERC-721 Token Symbol: MLS
+OpenZeppelin version: **2.3.0**   
+ERC-721 Token Name: **Moonlight Stars**   
+ERC-721 Token Symbol: **MLS**   
 Token Address on the Rinkeby Network: [Moonlight Stars](https://rinkeby.etherscan.io/token/0x7a2AB1E3952ad9cC465623b19e1201a624CB5a85)
+
 
 ### Dependencies
 For this project, you will need to have:
